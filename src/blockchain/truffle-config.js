@@ -19,11 +19,11 @@
  * Infura accounts are available for free at 🔍: https://infura.io/register
  *
  * You'll need a mnemonic - the twelve word phrase the wallet uses to generate
- * public/private key pairs. You can store your secrets 🤐 in a .env file.
+ * public/private key pairs. You can store your secrets 🤐 in a .env.example file.
  * In your project root, run `$ npm install dotenv`.
- * Create .env (which should be .gitignored) and declare your MNEMONIC
+ * Create .env.example (which should be .gitignored) and declare your MNEMONIC
  * and Infura PROJECT_ID variables inside.
- * For example, your .env file will have the following structure:
+ * For example, your .env.example file will have the following structure:
  *
  * MNEMONIC = <Your 12 phrase mnemonic>
  * PROJECT_ID = <Your Infura project id>
