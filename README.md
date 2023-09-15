@@ -22,7 +22,11 @@ This project aims to create a decentralized caching system using blockchain and 
    ```bash
    npm install
    ```
-4. Run the backend server
+4. Start Ganache CLI to run a local Ethereum node
+   ```bash
+   ganache-cli
+   ```
+5. Run the backend server
    ```bash
    npm run dev
    ```
